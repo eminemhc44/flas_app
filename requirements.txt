@@ -1,4 +1,3 @@
-pip install requirements.txt
 numpy
 tensorflow
 keras
